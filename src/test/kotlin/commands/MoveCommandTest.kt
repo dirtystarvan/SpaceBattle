@@ -1,4 +1,5 @@
-import commands.Move
+package commands
+
 import internals.Moveable
 import org.jetbrains.bio.viktor.F64Array
 import org.junit.jupiter.api.BeforeEach
