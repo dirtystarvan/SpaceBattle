@@ -1,4 +1,5 @@
-import commands.Rotate
+package commands
+
 import internals.Rotatable
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.assertThrows
